@@ -1,17 +1,17 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object, An Instance of a class
-* class, The kind of object
-* instance, A particular object
-* method, How to communicate with an object
-* signature, Information to invoke a method
-* parameter, Additional information for a task in a method
-* type, Kind of values a parameter can take
-* state, Set of values of all attributes that define an object
-* source code, Code of a class that determines behavior
-* return value, Methods that you can call
-* compiler, Translates java code into machine code
+* object, An instance of a class.
+* class, Blueprint that defines how to create an object.
+* instance, Specific realization of any object.
+* method, A Collection of statements, in a class, used to manipulate(mutators) or access(accessors) information from an object of that class.
+* signature, Name of the method and type of parameter.
+* parameter, An input of the method.
+* type, Defines what values the parameter is allowed to be.
+* state, Set of values describing an object
+* source code, Collection of written commands that compiles to create an executable program.
+* return value, Output of a method
+* compiler, Transforms source code into computer language.(forces the computer to read the instructions)
 
 ## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
