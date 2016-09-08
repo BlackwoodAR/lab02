@@ -26,21 +26,21 @@
 * 3.1415 - double, float
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
-
-private int name
-
+```
+private String name;
+```
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-
-public void send(String msg)
-
+```
+public void send (String var1)
+```
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
-
-public int average(int num1, int num2)
-
+```
+public int average (int v1, int v2)
+```
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
-
-Object, Class: Book
-
+```
+Object, Class: Books
+```
 ## Can an object have several different classes? Discuss.
 
 No, an object can only be one type
